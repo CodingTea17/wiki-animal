@@ -1,0 +1,9 @@
+.turkey, .chicken, .snake{
+  display: none;
+}
+
+#turkey:hover , #chicken:hover, #snake:hover{
+  text-decoration: underline;
+  color: #c60774;
+  cursor: pointer;
+}
